@@ -19,4 +19,9 @@ Our events are built for builders. We prioritize signal over noise, focusing on 
 
 ## Luma & Socials 社交网络
 
-- https://luma.com/aaif-shenzhen
+- Luma https://luma.com/aaif-shenzhen
+- Feishu/飞书 https://node2045.feishu.cn/wiki/space/7680762959835958246
+- GitHub https://github.com/aaif-shenzhen
+
+## AAIF
+https://aaif.io
