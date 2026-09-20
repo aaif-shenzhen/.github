@@ -1,4 +1,4 @@
-# AAIF SZ Chapter 
+# AAIF Shenzhen Chapter 
 
 ## About AAIF Shenzhen Chapter 关于 AAIF 深圳分会
 
@@ -20,8 +20,8 @@ Our events are built for builders. We prioritize signal over noise, focusing on 
 ## Luma & Socials 社交网络
 
 - Luma https://luma.com/aaif-shenzhen
-- Feishu/飞书 https://node2045.feishu.cn/wiki/space/7680762959835958246
 - GitHub https://github.com/aaif-shenzhen
+- Feishu/飞书 https://node2045.feishu.cn/wiki/space/7680762959835958246
 
 ## AAIF
 https://aaif.io
