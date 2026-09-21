@@ -25,3 +25,6 @@ Our events are built for builders. We prioritize signal over noise, focusing on 
 
 ## AAIF
 https://aaif.io
+
+## 想在社区活动分享你的见解与实践吗？
+在此报名 https://www.wenjuan.com/s/UZBZJvHnZSp/#
